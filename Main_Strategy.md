@@ -4,15 +4,15 @@ The Wheeler Strategy
 
 # Step #1: Stock Selection 
 
-* A profitable company that has solid cash flow
-* Bullish, or at least neutral chart trend and analyst ratings
-* Share price where the account can easily accept being assigned 100 shares if needed. (I stay away from sub-$10 stocks as a rule)
-* A stable to bullish trending chart without wild gyrations (especially those caused by CEO tweets)
-* A nice dividend is always a good thing, both that you may collect it if assigned the stock but also that dividend stocks tend to be more stable and predictable
+* A profitable company with strong cash flow.
+* A stock with a bullish or, at the very least, neutral trend, supported by positive analyst ratings.
+* A share price within a range that allows you to comfortably accept assignment of 100 shares if necessary (I generally avoid stocks priced under $10, unless it has high IV values).
+* High implied volatility (IV) stocks, offering more potential for options strategies.
+* Optional - A solid dividend, both for the potential income if assigned the stock and because dividend-paying stocks tend to be more stable and predictable.
 
 # Step #2: Sell Cash Secured Puts
 
-To start the wheel begins by selling short (naked) Puts, or (CSPs) Cash Secured Puts (indicating the account has the cash, or cash+margin to buy the shares if assigned. Be aware of any upcoming ER or other events that could cause a spike or movement in the stock and it is best to close or have the Put expire prior, in effect skipping it to then continue selling puts afterward if the stock still meets the criteria.
+T Start -  Selling short (naked) Puts, or (CSPs) Cash Secured Puts (indicating the account has the cash, or cash+margin to buy the shares if assigned. Be aware of any upcoming ER or other events that could cause a spike or movement in the stock and it is best to close or have the Put expire prior, in effect skipping it to then continue selling puts afterward if the stock still meets the criteria.
 
 Selling Puts Process - Below is a suggested model, but details are up to the individual trader:
 
