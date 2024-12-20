@@ -1,5 +1,5 @@
-# Wheeling
-The Wheeler Strategy
+# Options Strategy
+CSP + CC 
 
 
 # Step #1: Stock Selection 
