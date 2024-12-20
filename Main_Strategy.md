@@ -12,13 +12,13 @@ CSP + CC
 
 # Step #2: Sell Cash Secured Puts
 
-To Start -  Selling short (naked) Puts, or (CSPs) Cash Secured Puts (indicating the account has the cash, or cash+margin to buy the shares if assigned. Be aware of any upcoming ER or other events that could cause a spike or movement in the stock and it is best to close or have the Put expire prior, in effect skipping it to then continue selling puts afterward if the stock still meets the criteria.
+To Start -  Selling short (naked) puts, or cash-secured puts (CSPs), where the account has sufficient cash or cash plus margin to purchase the shares if assigned. Be mindful of upcoming earnings reports or other events that could lead to significant price movement. It’s often best to close the position or allow the put to expire before such events, effectively "skipping" them. Afterward, you can resume selling puts if the stock continues to meet your criteria.
 
 Selling Puts Process - Below is a suggested model, but details are up to the individual trader:
 
-* Opening at 30 to 45 DTE offers a good premium as the theta/time decay starts to accelerate
-* 70% Prob OTM (~.30 Delta) offers high probability of success while collecting a good premium
-* The number of contracts is based on account size able to handle assignment
+* Open Positions at 30–45 DTE: This timeframe provides a good balance of premium, as theta/time decay accelerates.
+* Target a 70% Probability of Expiring Out of the Money (~0.30 Delta): This offers a high probability of success while still collecting a healthy premium.
+* Position Size Based on Account Capacity: Choose the number of contracts according to your account’s ability to handle potential assignment.
 * Opening at 5% max risk to the account is good practice, and keeping ~50% of the trading account in cash helps manage market downturns, assignments and trading opportunities
 * The Put can be closed at a 50% profit with a GTC Limit Order that can close automatically. A put can then be sold on the same stock, or another based on your opening criteria. Closing early will reduce early assignment and gamma risk to take the lower risk "easy" profit off the top
 * Enter the Credits received, and any Debits paid to close or roll, on the Tracking P&L file
