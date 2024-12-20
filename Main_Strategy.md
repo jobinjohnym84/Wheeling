@@ -12,7 +12,7 @@ CSP + CC
 
 # Step #2: Sell Cash Secured Puts
 
-T Start -  Selling short (naked) Puts, or (CSPs) Cash Secured Puts (indicating the account has the cash, or cash+margin to buy the shares if assigned. Be aware of any upcoming ER or other events that could cause a spike or movement in the stock and it is best to close or have the Put expire prior, in effect skipping it to then continue selling puts afterward if the stock still meets the criteria.
+To Start -  Selling short (naked) Puts, or (CSPs) Cash Secured Puts (indicating the account has the cash, or cash+margin to buy the shares if assigned. Be aware of any upcoming ER or other events that could cause a spike or movement in the stock and it is best to close or have the Put expire prior, in effect skipping it to then continue selling puts afterward if the stock still meets the criteria.
 
 Selling Puts Process - Below is a suggested model, but details are up to the individual trader:
 
